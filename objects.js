@@ -8,4 +8,5 @@ var playlist = {
 updatePlaylist(playlist, key, value)
 {
   playlist[key] = value
+  return playlist
 }

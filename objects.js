@@ -5,12 +5,12 @@ var playlist = {
   MileyCirus: 'WreckingBall'
 }
 
-updatePlaylist(playlist, key, value)
+function updatePlaylist(playlist, key, value)
 {
   playlist[key] = value
 }
 
-removeFromPlaylist(playlist, key)
+function removeFromPlaylist(playlist, key)
 {
   delete playlist.key
 }

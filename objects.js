@@ -13,6 +13,6 @@ updatePlaylist(playlist, key, value)
 
 removeFromPlaylist(playlist, key)
 {
-  playlist[key] = value
+  delete playlist.key
   return playlist
 }

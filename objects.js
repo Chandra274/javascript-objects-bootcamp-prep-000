@@ -1,4 +1,6 @@
 var playlist = {
-  breakfast: 'eggs',
-  breakfast: 'bacon'
+  Madonna: 'LikeAVirgin',
+  PhilCollins: 'AnotherDayinParadise',
+  EltonJohn: 'CircleOfLife',
+  MileyCirus: 'WreckingBall'
 }

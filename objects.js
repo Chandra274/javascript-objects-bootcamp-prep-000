@@ -10,3 +10,9 @@ updatePlaylist(playlist, key, value)
   playlist[key] = value
   return playlist
 }
+
+removeFromPlaylist(playlist, key)
+{
+  playlist[key] = value
+  return playlist
+}

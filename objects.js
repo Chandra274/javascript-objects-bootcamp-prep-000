@@ -4,4 +4,8 @@ var playlist = {
   EltonJohn: 'CircleOfLife',
   MileyCirus: 'WreckingBall'
 }
-updatePlaylist()
+
+updatePlaylist(playlist, key, value)
+{
+  playlist[key] = value
+}

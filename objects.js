@@ -4,3 +4,4 @@ var playlist = {
   EltonJohn: 'CircleOfLife',
   MileyCirus: 'WreckingBall'
 }
+updatePlaylist()

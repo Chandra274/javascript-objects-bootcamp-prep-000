@@ -14,5 +14,4 @@ function updatePlaylist(playlist, key, value)
 function removeFromPlaylist(playlist, key)
 {
   delete playlist.key
-  return playlist
 }
